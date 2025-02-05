@@ -1,7 +1,7 @@
 # This is a simple Python program
 
 # Function to greet a user
-def greet_user(name):hamza
+def greet_user(name):hamza this si 6th edit and from gitbash
     return f"Hello, {name}!"
 
 # Function to check if a number is even or odd
